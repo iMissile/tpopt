@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 453bfd71-18ec-4190-a9d7-a2d8cec4e090
+      url: 'https://quartopub.com/sites/ishutov/quarto'

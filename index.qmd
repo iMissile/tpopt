@@ -1,0 +1,14 @@
+---
+title: "Tp Opt"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+#| eval: false
+1 + 1
+```
+
+Немного математических формул: $a=\frac{g t^2} 2$
