@@ -4,6 +4,7 @@ project:
 website:
   title: "Сайт преподавателя"
   navbar:
+    logo: images/logo.jpg
     background: primary
     search: true
     left:
