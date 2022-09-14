@@ -7,18 +7,18 @@ website:
     logo: images/logo.jpg
     background: primary
     search: true
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
     right: 
       - href: stud_work.qmd
         text: "Работы студентов"
       - href: cv.qmd
+        text: "CV"
+      - href: publications.qmd
+        text: "Публикации"
 
 format:
   html:
-    theme: cosmo
+    page-layout: full
+    theme: minty
     css: styles.css
     toc: true
 

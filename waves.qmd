@@ -1,0 +1,23 @@
+---
+title: "Физика волновых процессов"
+editor: visual
+---
+  
+## Материалы по курсу:
+
+1. В.П. Кандидов, А. Ю. Чикишев ["Физика волновых процессов"](https://disk.yandex.ru/i/YQSunvuffpPs4Q).
+
+2. Материал по [атмосферной рефракции](http://walter.bislins.ch/bloge/index.asp?page=Deriving+Equations+for+Atmospheric+Refraction).
+
+3. Берклеевский курс физики. Крауфорд Ф. "Волны" и др. учебники в ссылках см. [здесь](http://eqworld.ipmnet.ru/ru/library/physics/lectures.htm).
+
+```{r}
+#| echo: false
+#| out.width: 100%
+#| out.extra: 'style="border: 1px solid #464646;"'
+knitr::include_url("https://docs.google.com/spreadsheets/d/e/2PACX-1vQfKtmSGcjx2iNfJJMZ97arGQgU_xLD0DDc7EnqLioXx7VB64gFb3ckCuL9wIuSZMg10-kFpuoD5kYM/pubhtml?widget=true&amp;headers=false", height = 500)
+```
+
+Таблицы в виде [ссылки](https://docs.google.com/spreadsheets/d/1cY4vGiantc5xkytyxaR5qLw2idlPZedka4qY_kROn2E/edit?usp=sharing).
+
+  

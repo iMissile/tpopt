@@ -1,41 +1,47 @@
 ---
-title: "Tp Opt"
+title: ""
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-#| eval: false
-1 + 1
-```
-
-Немного математических формул: $a=\frac{g t^2} 2$
-
-# Проверка автодеплоя
-
 ::: {layout-ncol="4"}
-![](images/start_mech_300.jpg) 
-**Механика**   
-(семинары, 1 курс, ФКИ)
+![](images/start_mech_300.jpg)
 
 ![](images/start_quantum_300.jpg)
-**Квантовая механика**  
-(семинары, 4 курс, ФКИ)
 
 ![](images/start_wave_300.jpg)
-**Физика волновых процессов**
-  (семинары, 3 курс, ВМК)
 
 ![](images/start_micro_300.jpg)
-**Микроскопия сверх-разрешения**   
+:::
+
+::: {layout-ncol="4"}
+### [Механика](mechanics.qmd)
+
+(семинары, 1 курс, ФКИ)
+
+### Квантовая механика
+
+(семинары, 4 курс, ФКИ)
+
+### [Физика волновых процессов](waves.qmd)
+
+(семинары, 3 курс, ВМК)
+
+### Микроскопия сверх-разрешения
+
 (спецкурс, 1 курс магистр., ФФ)
 :::
 
-```{r}
-#| echo: false
-#| out.width: 100%
-#| out.extra: 'style="border: 1px solid #464646;"'
-knitr::include_url("https://docs.google.com/spreadsheets/d/e/2PACX-1vQfKtmSGcjx2iNfJJMZ97arGQgU_xLD0DDc7EnqLioXx7VB64gFb3ckCuL9wIuSZMg10-kFpuoD5kYM/pubhtml?widget=true&amp;headers=false", height = 405)
-```
+------------------------------------------------------------------------
+
+::: {layout-ncol="4"}
+![](images/graph_300.jpg)
+
+### Введение в нанооптику
+
+Спецкурс (фф, 4 курс) 
+
+![](images/spectroscopy_300.jpg)
+
+### Лазерная спектроскопия
+
+Спецкурс (Саровский филиал)
+:::
